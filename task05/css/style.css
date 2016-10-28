@@ -1,0 +1,43 @@
+html,body,div,span,h1,h2,h3,h4,h5,h6,p,img{margin: 0;padding: 0;}
+body{background-color: #dedede;font-family: "微软雅黑"； }
+header{height: 60px;width: 100%;background-color: #333333}
+header img{margin-left: 40px;margin-top: 10px;}
+nav {float: right;}
+nav ul li{float: left;margin-right: 25px;}
+nav ul li a{color: #fff;font-size: 12px;text-decoration: none;}
+.li_4 a{color: #959597;}
+article{margin: 20px;background-color: #fff;box-shadow:1px 1px 3px 2px #848484; }
+section{margin-right: 400px;}
+.container{padding: 40px 20px;}
+.container h2{margin-bottom: 20px;}
+.container h3{margin-bottom: 15px;color: #676767;}
+.container span{color: #73746c;font-size: 12px;}
+.container p{text-indent: 2em;font-size: 14px;line-height: 24px;margin-top: 15px;}
+.container img{margin-top:15px; }
+.container li{font-size: 14px;list-style: none;}
+.container_tu{padding: 40px 20px;}
+.container_tu li{border: 1px solid #cecece;text-align: center;list-style: none;width: 120px;margin-bottom: 15px;float: left;margin-left: 20px;}
+.container_tu li img{width: 100px;}
+.cb{clear: both;visibility: hidden;height: 0;overflow: hidden;}
+.container_biao{padding: 40px 20px;}
+.container_biao h2{margin-bottom: 20px;}
+.container_biao h3{margin-bottom: 15px;color: #676767;}
+.container_biao span{color: #73746c;font-size: 12px;}
+.container_biao p{font-size: 14px;line-height: 24px;margin-top: 15px;}
+.container_biao table{width: 100%;border-collapse:collapse;}
+.container_biao th,td{border: 1px solid #e6e6e6;}
+.biaotou{background-color: #333;color: #fff;}
+.zongji{background-color: #ccc;}
+aside{margin: 20px;background-color: #fff;box-shadow:1px 1px 3px 2px #848484; padding: 40px 20px;width: 340px;float: right;}
+aside table{width: 100%;}
+aside table td{border: 0px solid black;font-size: 14px;}
+textarea{width: 90%;height: 60px;}
+.t_left_child{vertical-align:text-top;text-align: right;}
+.t_left{text-align: right;width: 40%;}
+.t_right{width: 60%;}
+.container_ce_h2 h2{font-size: 16px;text-indent: 1em;}
+.container_ce_h2{height: 38px;line-height: 38px;border-left: 4px solid #cdcdcd;width: 100%;}
+.form_submit {width: 100%;padding: 10px;margin-top: 10px;color: white;font-weight: 700;font-size: 16px;background-color: #35d;border-radius: 10px;}
+.tip{padding-bottom: 20px;color: #9d9eb2;}
+footer{height: 70px;background-color: black;}
+footer p{line-height: 70px;text-align: center;color: #fff;font-size: 12px;font-weight: 700;}

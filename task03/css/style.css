@@ -1,0 +1,11 @@
+html,body,div,span,h1,h2,h3,h4,h5,h6,p,img{margin: 0;padding: 0;}
+ul,li{list-style: none;}
+body{background-color: #fff;font-family: "Microsoft YaHei"; }
+.container{margin: 20px;width: auto;background-color: #eee;border: 1px solid #999;padding: 20px;}
+.cb{clear: both;height: 0;overflow: hidden;visibility: hidden;}
+.left{float: left;width: 158px;padding: 20px;border: 1px solid #999;background-color: #fff;}
+.left img{float: left}
+.name b{margin-left: 20px;font-size: 14px}
+.right{float: right;width: 118px;border: 1px solid #999;background-color: #fff;}
+.right img{margin: 20px;display: block;}
+.center{margin-left: 220px;padding: 20px;margin-right: 140px;background-color: #fff;}
